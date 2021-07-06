@@ -1,0 +1,12 @@
+.header {
+	color: aqua;
+	display: flex;
+	justify-content: space-between;
+	/* background-color: red; */
+	padding: 16px;
+}
+
+.header__logo {
+	width: 24px;
+	object-fit: contain;
+}
